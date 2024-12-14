@@ -52,6 +52,11 @@ This project is an Image Steganography tool that allows you to hide and extract 
 2. Select the image from which you want to extract the hidden text.
 3. The hidden message will be displayed in the text area.
 
+## Project Demo
+![Output](Output/ImageEncryption).
+
+
+
 ## Project Structure
 
 - `steganography.py`: Main script containing the Stegno class and the Tkinter GUI.
