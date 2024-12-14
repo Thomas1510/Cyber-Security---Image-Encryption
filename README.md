@@ -53,7 +53,7 @@ This project is an Image Steganography tool that allows you to hide and extract 
 3. The hidden message will be displayed in the text area.
 
 ## Project Demo
-![Output](Output/Image Encryption.mp4).
+![Output](Output/ImageEncryption.mp4).
 
 
 
